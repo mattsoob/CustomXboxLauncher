@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nVs/BSBxFN4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marso\\source\\repos\\CustomXboxLauncher\\CustomXboxLauncher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marso\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.57\\microsoft.windows.sdk.net.ref.10.0.17763.57.nupkg.sha512"
+  ],
+  "logs": []
+}
