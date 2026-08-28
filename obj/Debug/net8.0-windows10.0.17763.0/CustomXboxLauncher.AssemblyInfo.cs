@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CustomXboxLauncher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8473d295d5e66479fd2135a27acf0d02ea7dde2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CustomXboxLauncher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CustomXboxLauncher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
